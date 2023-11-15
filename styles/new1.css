@@ -1,0 +1,18 @@
+li{
+    font-size: larger;
+    color: seagreen;
+    font-weight: 800px;
+}
+.hdr{
+    text-align: center;
+    
+    /* padding-top: 50px; */
+color: aquamarine;
+    height: 400px;
+        background-image: url(https://images.pexels.com/photos/18760211/pexels-photo-18760211.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=500&w=1400&dpr=1);
+        background-size:cover ;
+        background-repeat: no-repeat;
+        background-position: bottom right;
+        background-blend-mode: exclusion;
+
+}
